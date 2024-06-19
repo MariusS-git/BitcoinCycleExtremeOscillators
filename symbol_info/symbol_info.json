@@ -1,9 +1,21 @@
 {
    "symbol": [
-      "BITCOIN_CYCLE_EXTREME_OSCILLATORS"
+      "CONDITION_SUM",
+      "CYCLE_LOW_SIGNAL",
+      "CYCLE_TOP_SIGNAL",
+      "MVRV",
+      "PUELL_MULTIPLE",
+      "RESERVE RISK",
+      "SOPR"
    ],
    "pricescale": 10000000000000000,
    "description": [
-      "Bitcoin cycle extreme oscillators"
+      "Condition sum",
+      "Cycle low signal",
+      "Cycle top signal",
+      "MVRV",
+      "Puell Multiple",
+      "Reserve Risk",
+      "SOPR"
    ]
 }
